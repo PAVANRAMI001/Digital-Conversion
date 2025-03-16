@@ -23,8 +23,8 @@ Libraries: None
 📦 Installation
 Clone the repository and install required dependencies (if any).
 
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/PAVANRAMI001/Digital-Conversion.git
+cd Digital-Conversion
 pip install -r requirements.txt  # If using Python
 
 🖥️ Usage
