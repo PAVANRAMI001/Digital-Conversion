@@ -5,6 +5,8 @@
 Digital Conversion is a powerful tool that allows users to convert data between different digital formats. This project provides efficient algorithms to transform numbers, text, and files into various representations, such as binary, decimal, hexadecimal, and more.
 
 🚀 Features
+✅
+
 --
 -Convert numbers between decimal, binary, octal, and hexadecimal
 -Fast and accurate conversions
