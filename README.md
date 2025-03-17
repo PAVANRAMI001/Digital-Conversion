@@ -6,10 +6,10 @@ Digital Conversion is a powerful tool that allows users to convert data between 
 
 🚀 Features
 --
--✅ Convert numbers between decimal, binary, octal, and hexadecimal
--✅ Fast and accurate conversions
--✅ Simple and user-friendly interface
--✅ Lightweight and efficient
+-Convert numbers between decimal, binary, octal, and hexadecimal
+-Fast and accurate conversions
+-Simple and user-friendly interface
+-Lightweight and efficient
 
 🎯 Example Output: Decimal to Binary Conversion
 --
