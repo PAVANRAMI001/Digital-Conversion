@@ -1,25 +1,25 @@
-##🔥 Digital Conversion
-
-##📖 Overview
-
+🔥 Digital Conversion
+--
+📖 Overview
+--
 Digital Conversion is a powerful tool that allows users to convert data between different digital formats. This project provides efficient algorithms to transform numbers, text, and files into various representations, such as binary, decimal, hexadecimal, and more.
 
-##🚀 Features
-
+🚀 Features
+--
 -✅ Convert numbers between decimal, binary, octal, and hexadecimal
 -✅ Fast and accurate conversions
 -✅ Simple and user-friendly interface
 -✅ Lightweight and efficient
 
-##🎯 Example Output: Decimal to Binary Conversion
-
+🎯 Example Output: Decimal to Binary Conversion
+--
 -Enter the Type Of Input Number:decimal
 -Enter the Type Of Output Number:binary
 -Enter The Decimal Number:123
 -The Conversion Of This Decimal Into Binary Is : 1111011
 
-##🛠 Technologies Used
-
+🛠 Technologies Used
+--
 -Programming Language: Python 
 -Libraries: None
 
